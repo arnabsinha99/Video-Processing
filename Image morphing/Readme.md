@@ -13,7 +13,10 @@ Make sure the following libraries are present in your Python3 environment:
 
 ## Usage
 
-Make sure the command line is running in the directory where the project is saved.
+Clone this repository to your local computer.
+
+Open the command terminal.Make sure the command line is running in the directory where the project is cloned.
+
 * With number of frames included:
     ```bash
     python morphing.py Bush.jpg Clinton.jpg -frames 10
