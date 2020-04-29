@@ -33,5 +33,7 @@ After running this command,
 
 * The morphing starts taking place and the code shall terminate once all the frames along with the final video are created and saved in the respective directories.
 
+## Contribution 
 
+Feel free to contribute to this repository by starting a new issue in the [Issues](https://github.com/arnabsinha99/Video-Processing/issues) Section.
 
